@@ -1,0 +1,8 @@
+{
+  "domain": "recorder_service",
+  "name": "Audio Recorder",
+  "documentation": "https://www.example.com",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": []
+}
